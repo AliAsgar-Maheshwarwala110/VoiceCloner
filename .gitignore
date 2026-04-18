@@ -1,0 +1,15 @@
+tts_env/
+Dataset/
+hf_cache/
+
+*.pt
+*.pth
+*.ckpt
+
+*.wav
+*.mp3
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
